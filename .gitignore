@@ -1,0 +1,6 @@
+.env
+.streamlit/secrets.toml
+app_credentials.sqlite3
+app_credentials.sqlite3-shm
+app_credentials.sqlite3-wal
+app_credentials.sqlite3-journal
